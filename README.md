@@ -28,4 +28,4 @@ For the Classical – Quantum Approach With the exception of the VGG16 pretraine
 
 To conclude, hybrid models with quantum layers could be trained on vast amounts of data with either poor or equivalent results, or they can be trained on smaller amounts of quantum pre-processed data with more accurate predictions. There is no ideal equilibrium between the two, and quantum computing must find a perfect balance.
 
-### **The process of implementation of the networks and quantum integration is explanined in the report document ***"Samireddik.pdf"*** in detail with all the supporting python files, please check it out**
+#### ***The process of implementation of the networks and quantum integration is explanined in the report document **"Samireddik.pdf"** in detail with all the supporting python files and Results, please check it out***
